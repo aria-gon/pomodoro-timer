@@ -1,3 +1,3 @@
 # pomodoro-timer
 
-<img width="3508" height="2480" alt="image" src="https://github.com/user-attachments/assets/0de4178e-bdfd-4d61-acd4-983f0305ff83" />
+<img width="1093" height="520" alt="image" src="https://github.com/user-attachments/assets/3021052d-d3e6-4579-bf4f-bd2d3a717bf8" />
